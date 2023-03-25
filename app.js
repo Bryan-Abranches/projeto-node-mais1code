@@ -10,7 +10,7 @@ const router = require('./routes')
 /* Variaveis */
 
 const app = express()
-const port = 4030
+const port = 6060
 
 
 /* Middlewares */
